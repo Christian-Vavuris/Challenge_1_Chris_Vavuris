@@ -23,9 +23,22 @@ Most recent work on this page was refactoring it to increase accessibility this 
 
 ### Dev Notes
 All files should be found in the Challenge_1_Chris_Vavuris directory
+I used this link to pull semantic tags: https://www.w3schools.com/html/html5_semantic_elements.asp
 
 Changes made:
 Added attributes to all images (done)
+Added descriptions to the CSS stylesheet to make it easier to read
+Replaced <div> tags with <header>
+Replaced <div> tags with <nav>
+Replaced <div> tags with <article> x3
+Replaced <div> tags with <footer>
+Replaced <div> tags with <aside>
+Replaced <div> tags with <section>
+
+
+
+
+
 
 ### All refactoring performed by Chris Vavuris via Berkeley Boot Camp!
 
