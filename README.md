@@ -11,7 +11,11 @@ Basic terminal navigation and git knowledge a plus.
 
 ### URL
 
+https://christian-vavuris.github.io/Challenge_1_Chris_Vavuris/
+
 ### Screenshot
+
+?? What are we looking for here ??
 
 ### Project Notes
 Website is optimized for Google Chrome.  
