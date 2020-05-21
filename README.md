@@ -24,5 +24,8 @@ Most recent work on this page was refactoring it to increase accessibility this 
 ### Dev Notes
 All files should be found in the Challenge_1_Chris_Vavuris directory
 
+Changes made:
+Added attributes to all images (done)
+
 ### All refactoring performed by Chris Vavuris via Berkeley Boot Camp!
 
