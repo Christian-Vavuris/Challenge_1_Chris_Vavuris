@@ -15,7 +15,7 @@ https://christian-vavuris.github.io/Challenge_1_Chris_Vavuris/
 
 ### Screenshot
 
-?? What are we looking for here ??
+Horiseon Screencap.pdf available at href="./Develop/Assets/images/Horiseon Screencap.pdf"
 
 ### Project Notes
 Website is optimized for Google Chrome.  

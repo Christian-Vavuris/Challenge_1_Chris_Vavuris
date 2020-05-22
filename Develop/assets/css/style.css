@@ -99,6 +99,10 @@ p {
 }
 
 /* Article styling */ 
+.articke {
+    float:left;
+}
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
